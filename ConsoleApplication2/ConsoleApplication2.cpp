@@ -74,7 +74,7 @@ void Function_1() {
 
     _Quote2.owner = "Abhinav";
 
-    cout << "_Quote2.owner = " << _Quote2.owner << endl;
+    //cout << "_Quote2.owner = " << _Quote2.owner << endl;
 
     Print_Price(_Quote2);
 
