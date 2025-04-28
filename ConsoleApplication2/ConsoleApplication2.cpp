@@ -81,6 +81,6 @@ void Function_1() {
 void Print_Price(const Quote &_Quote) {
 
     double price = _Quote.net_price();
-    cout << "price = " << price << endl;
+    cout << " price = " << price << endl;
 
 }
