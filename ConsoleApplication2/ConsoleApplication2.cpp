@@ -2,6 +2,8 @@
 #include <iostream>
 #include <string>
 
+// Code From other directory
+
 using namespace std;
 
 class Quote;
